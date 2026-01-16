@@ -6,7 +6,7 @@ Incluye creación, edición, filtrado, búsqueda y eliminación de tareas, con p
 ---
 
 ## 📷 Captura de pantalla / Screenshot
-![TaskFlow captura](./taskflow.png)
+[![TaskFlow captura](./taskflow.png)](https://github.com/franklin2005/TaskFlowReact/blob/main/taskflow/taskflow.png)
 
 ---
 
