@@ -47,7 +47,7 @@ Incluye creación, edición, filtrado, búsqueda y eliminación de tareas, con p
 
 ```bash
 1. Clonar repositorio
-git clone https://github.com/franklin2005/taskflow.git
+git clone https://github.com/franklin2005/TaskFlowReact.git
 cd taskflow
 
 2. Instalar dependencias
@@ -109,7 +109,7 @@ pnpm as package manager
 
 ```bash
 1. Clone repo
-git clone https://github.com/franklin2005/taskflow.git
+git clone https://github.com/franklin2005/TaskFlowReact.git
 cd taskflow
 
 2. Install dependencies
